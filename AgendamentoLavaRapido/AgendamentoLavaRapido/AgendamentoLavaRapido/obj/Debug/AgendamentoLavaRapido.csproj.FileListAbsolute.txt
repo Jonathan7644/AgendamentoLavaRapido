@@ -1,0 +1,81 @@
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\ApplicationInsights.config
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\csc.exe
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\vbc.exe
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll.config
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.pdb
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.Web.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.Web.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.xml
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.csprojResolveAssemblyReference.cache
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.dll
+C:\Users\RooT\Desktop\IFix Assistência Técnica\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.pdb
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\ApplicationInsights.config
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll.config
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.pdb
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.dll
+C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.pdb
