@@ -13,5 +13,10 @@ namespace AgendamentoLavaRapido.Controllers
         {
             return View();
         }
+
+        public ActionResult Agendamento()
+        {
+            return View();
+        }
     }
 }

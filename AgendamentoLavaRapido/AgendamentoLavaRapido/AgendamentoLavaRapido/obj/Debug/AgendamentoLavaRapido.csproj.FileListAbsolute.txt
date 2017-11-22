@@ -79,3 +79,38 @@ C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\Ag
 C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.dll
 C:\Users\Usuario\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.pdb
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\ApplicationInsights.config
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\csc.exe
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\vbc.exe
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll.config
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\AgendamentoLavaRapido.pdb
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Razor.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Helpers.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\bin\System.Web.Mvc.xml
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.dll
+C:\Users\Rodrigo Meireles\Documents\GitHub\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\AgendamentoLavaRapido\obj\Debug\AgendamentoLavaRapido.pdb
